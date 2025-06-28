@@ -49,6 +49,23 @@
 </div>
 
 ---
+---
+
+## 🧩 GitHub Summary Cards
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshsiam&theme=apprentice" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dineshsiam&theme=apprentice" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dineshsiam&theme=apprentice" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dineshsiam&theme=apprentice" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dineshsiam&theme=apprentice&utcOffset=8" alt="Productive Time" />
+</p>
 
 ## 🛠️ Let's Connect:
 <p align="center">
